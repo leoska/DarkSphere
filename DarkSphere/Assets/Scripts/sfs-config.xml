@@ -1,0 +1,8 @@
+﻿<!--<?xml version="1.0" encoding="utf-8" ?>-->
+<SmartFoxConfig>
+  <host>192.168.1.170</host>
+  <port>9933</port>
+  <udpIp>192.168.1.170</udpIp>
+  <udpPort>9933</udpPort>
+  <zone>BasicExamples</zone>
+</SmartFoxConfig>
